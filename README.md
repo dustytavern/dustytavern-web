@@ -1,18 +1,14 @@
-[![GitHub license](https://img.shields.io/github/license/Mo45/Rust-Server-Website-Template.svg)](https://github.com/Mo45/Rust-Server-Website-Template/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/Mo45/Rust-Server-Website-Template.svg)](https://github.com/Mo45/Rust-Server-Website-Template/issues)
 
-# Rust-Server-Website-Template
-Website Template for Rust server
+# Dusty Tavern Website
+Website for Rust server
 
 **Rust-Server-Website-Template** is a responsive, dynamically updated PHP/CSS template for Rust server website. It is build with Bootstrap 4 and Rust-Servers.Info API.
 
 ## Demo
 
-See a demo at https://me.gametranslation.net/rust
-
-## Donate
-
-You can help us by giving back to support developement. Become my patron on [Patreon](https://www.patreon.com/rustserversinfo).
-
+See a demo at http://tavern.nxtgenenterprise.com
+## DISCLAIMER:
+Based on design (https://github.com/Mo45/Rust-Server-Website-Template)
 ## Features
 
 * **Responsive Design**
